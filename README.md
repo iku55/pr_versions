@@ -1,0 +1,2 @@
+# pr_versions
+PlayerRealmsのプラグインのバージョンリスト
