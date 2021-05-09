@@ -1,4 +1,40 @@
 # 変更ログ
+## 2021/05/05
+### 情報
+コミット:[9ae6fb8](https://github.com/iku55/pr_versions/commit/9ae6fb8e4c08841874649e646a76d0da4e5d5683)  
+バージョン:[1.0.2](https://github.com/iku55/pr_versions/releases/1.0.2)  
+規模:中規模な変更  
+コメント:列"ページ数"を削除し、列"最初から"を追加しました
+> yuki — 2021/04/21  
+Skript関連の新規追加、バージョンアップをしました。
+一部アドオンはまだアップデートしていません。
+プラグインメニューの改善 (検索、ソート)をしました。
+サーバアイコンをすべてのサーバで使用可能にしました。  
+
+> Tooka — 2021/05/05  
+プラグインをいくつか更新しました。  
+以下のURLから更新したプラグインを確認できます。  
+https://paste.mcua.net/v/ITEu1oyW  
+### 追加(3)
+- ItemsXL
+- SkRage
+- SkVault
+### 変更(14)
+- BedWars
+- CommandPanels
+- DungeonsXL
+- EnchantGui
+- FastCraft
+- InfiniteScoreboard
+- IridiumSkyblock
+- MythicMobs
+- OldCombatMechanics
+- UltimateClaims
+- UltimateKits
+- UltimateRepairing
+- UltimateStacker
+- UltimateTimber
+### 削除(0)
 ## 2021/04/14
 ### 情報
 コミット:[15b8bf0](https://github.com/iku55/pr_versions/commit/15b8bf04583256da087fb31262cc469a6f33906e)  
